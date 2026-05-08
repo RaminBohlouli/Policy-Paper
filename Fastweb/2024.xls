@@ -1,0 +1,82 @@
+form	questiongroup	question	text	clone
+2635729019	2537752665	2682784024	Ora partenza da casa_2682784024	QEMSTARTIM
+2635729019	2537752665	2706180513	Spostamenti di lavoro_2706180513	QEMWRKTRP2
+2635729019	2537752665	2908031331	Ora uscita da lavoro_2908031331	QEMWKOU3EM
+2635729019	2537752665	2928216348	Qual è il tuo orario di ingresso al lavoro?  _2928216348	2380207822
+2635729019	2537752665	3047360931	Pausa pranzo_3047360931	QEMBRKDOEM
+2635729019	2537752665	3092908549	Turno in corso_3092908549	QEMTURNS2
+2635729019	2569865332	1309219840	Saresti disponibile a utilizzare la Navetta Aziendale per andare al lavoro? 	
+2635729019	2569865332	2009285548	"In merito all'organizzazione di spostamenti a piedi negli orari serali, ti sarebbe utile effettuare una parte del tuo spostamento a piedi insieme ad altre persone che lavorano con te?"	
+2635729019	2569865332	2698316121	Saresti disposto ad effettuare lo spostamento (interamente o in parte) con il monopattino per andare a laovoro (max 3 risposte)_2698316121	3761057453
+2635729019	2569865332	2809137489	Propensione verso il carpooling_2809137489	QEMIFCPPNM
+2635729019	2569865332	2910456146	"Saresti disposto ad utilizzare servizi di sharing mobility (car sharing, bike sharing etc) per raggiungere la tua sede di lavoro?_2910456146"	1196765063
+2635729019	2569865332	2922449365	Saresti disposto ad effettuare lo spostamento (interamente o in parte) a piedi per andare a lavoro? (max 3 risposte)_2922449365	3634113020
+2635729019	2569865332	3085175263	Quale tipologia di sharing preferiresti utilizzare? (max 3 risposte)_3085175263	2020219235
+2635729019	2569865332	3116698195	Propensione verso la bici_3116698195	QEMIFBIKNM
+2635729019	2569865332	3277916778	Propensione verso il trasporto pubblico_3277916778	QEMIFCOLNM
+2635729019	2854357357	1173491444	Lavori presso la sede di NeXXt di fastweb?	
+2635729019	2854357357	2125477249	"Quanto è importante per te avere a disposizione una colonnina di ricarica elettrica per l'auto in sede? (1=quasi irrilevante, 4=molto importante)"	
+2635729019	2854357357	2616133814	Suggerimenti_2616133814	QEMSUGGSTN
+2635729019	2854357357	2709464718	Se ci fossero degli eventi di engagement dedicati alla mobilità sostenibile ti piacerebbe partecipare?	
+2635729019	2854357357	2933393811	Saresti interessato a servizi di mobilità per i tuoi familiari?_2933393811	133175317
+2635729019	2854357357	2976128517	Sei a conoscenza dell'opportunità di riservare il parcheggio se fai carpooling?	
+2635729019	2854357357	3206089226	Potresti indicare il numero di figli e la scuola frequentata? _3206089226	3577157301
+2635729019	2854357357	3793428763	"Come reputi l'iniziativa di Carpooling presente? (1=quasi irrilevante, 4=molto importante)"	
+2635729019	2854357357	4149943214	Ti piacerebbe avere un credito da spendere su tutti i servizi di mobilità?	
+2635729019	2854357357	491989318	"Quanto è importante per te avere a disposizione il parcheggio in sede? (1=quasi irrilevante, 4=molto importante"	
+2635729019	2963802452	2663057535	Informativa sul trattamento dei dati personali_2663057535	QEMINFPRV
+2635729019	3020491198	1718294970	 Indica la distanza percorsa in km per ogni mezzo pubblico utilizzato	
+2635729019	3020491198	2550466749	Modo di trasporto utilizzato_2550466749	QEMWCMOD
+2635729019	3020491198	2600142859	Permesso ZTL_2600142859	QEMZTLPER
+2635729019	3020491198	2772240710	Modi utilizzati nella stagione opposta_2772240710	QEMMDSQ2NM
+2635729019	3020491198	2975926645	Utilizzerai mezzi in sharing per recarti al lavoro?_2975926645	4254143295
+2635729019	3020491198	2977368470	Mezzi pubblici utilizzati_2977368470	QEMWCPUT
+2635729019	3020491198	3007384005	Quale mezzo privato utilizzi insieme al trasporto pubblico?_Copy2	2891060939
+2635729019	3020491198	3047688663	Motivo di scelta del mezzo_3047688663	QEMWHYMDNM
+2635729019	3020491198	3061909887	Quale abbonamento al trasporto possiedi? (è possibile indicare più di una opzione)_3061909887	371728226
+2635729019	3020491198	3128429170	Quanto sei soddisfatto del mezzo che usi abitualmente per lo spostamento casa - lavoro ? _3128429170	3747356826
+2635729019	3020491198	3228568185	Soste durante il tragitto_3228568185	QEMTRP1SNM
+2635729019	3020491198	3617333585	"DIM 25: domanda ?indicare in termini percentuali (%), rispetto al kilometraggio della tratta casa-lavoro, il tasso di utilizzo (in tempo o in distanza) dei mezzi indicati alla domanda precedente?."	
+2635729019	3040741903	1103570227	"Identifica la cilindrata della motocicletta, ciclomotore, scooter che utilizzi per recarti a lavoro"	
+2635729019	3040741903	2161646015	Identifica la cilindrata dell'auto che utilizzi per recarti al lavoro	
+2635729019	3040741903	2709326089	Costo del parcheggio_2709326089	QEMMCHPRK
+2635729019	3040741903	2738948377	Parcheggio presso la sede_2738948377	QEMWHRCR
+2635729019	3040741903	2864580938	Accesso al parcheggio aziendale_2864580938	QEMCPRKACC
+2635729019	3040741903	2868447511	Spazi adeguati per la sosta della bici_2868447511	QEMBIKPBEM
+2635729019	3040741903	3029731746	Standard emissivo del motociclo_3029731746	QEMMTEUR
+2635729019	3040741903	3060664853	Mezzi di trasporto disponibili_3060664853	QEMMDAVLB
+2635729019	3040741903	3079932294	Alimentazione dell?auto_3079932294	QEMCRAVLB
+2635729019	3040741903	3088976387	Standard emissivo dell?auto_3088976387	QEMCREUR
+2635729019	3040741903	3213167113	Problemi di sosta dell?auto_3213167113	QEMPRKPBEM
+2635729019	3105032660	1960778846	Potresti indicare il motivo per cui non hai scaricato l'App Mobility Company? 	
+2635729019	3105032660	2866481390	Quale tipo di servizio utilizzi/consulti abitualmente all'interno del Portale? (è possibile indicare più di una risposta)_2866481390	145698368
+2635729019	3105032660	2932607265	Hai mai utilizzato l'innovativo Portale della Mobilità (MobilityCompany/GoFast GoGreen)_2932607265	2723487901
+2635729019	3105032660	3058436629	Potresti indicare il motivo per cui non utilizzi i servizi messi a disposizione? (solo se il dipendnete risponde nessuno dei precedenti)_3058436629	2697933529
+2635729019	3105032660	3081112125	"Conosci il percorso GoFast GoGreen che vede impiegati noi di Fastweb nella progettazione di una mobilità per i dipendenti più organizzata, innovativa e sostenibile? _3081112125"	3475389920
+2635729019	3105032660	3091860014	"Con quale frequenza accedi ai servizi all'interno del Portale? (1:mai, 2:poco, 3:abbastanza, 4:molto)_3091860014"	837886740
+2635729019	3105032660	3149531668	Sei a conoscenza dei diversi servizi offerti dal portale?_3149531668	1632245056
+2635729019	3105032660	4194635103	Hai scaricato l'App Mobility Company?	
+2635729019	3105032660	761030702	"Sai che abbiamo lanciato la nuova Campagna di gamification ""Green to Win 2024"" che ti permette di vincere fantastici premi (Buono Decathlon, Buono Amazon, Carta Trenitalia, etc.) utilizzando modalità di spostamento sostenibili come il carpooling, il trasporto pubblico, la bicicletta etc.?"	
+2635729019	3153332701	2684094723	Inquadramento lavorativo_2684094723	QEMWORKTYP
+2635729019	3153332701	2705983796	Orario di lavoro_2705983796	QEMCONTTYP
+2635729019	3153332701	2706376882	Giorni al mese di lavoro in sede_2706376882	QEMMNDYS
+2635729019	3153332701	2837711099	Sede_2837711099	QEMOFFICE
+2635729019	3153332701	2982218172	Rapporto con l?azienda_2982218172	QEMJOB
+2635729019	3166571079	2611415261	Tempo di viaggio_2611415261	QEMTRIP1EM
+2635729019	3166571079	2635991280	Fermata di discesa_2635991280	QEMCOLLSTP
+2635729019	3166571079	2759461197	Costo dell?abbonamento annuale al trasporto pubblico_2759461197	QEMCSTTRPT
+2635729019	3166571079	2782660807	Trasbordi effettuati_2782660807	QEMNMCHN
+2635729019	3166571079	2824472820	Aspetti dell?offerta di trasporto pubblico_2824472820	QEMCOLWHGT
+2635729019	3166571079	2938440091	Distanza della fermata dei mezzi pubblici più vicina al domicilio_2938440091	QEMBSTDIS
+2635729019	3166571079	2956593551	Giudizio sul servizio di navetta aziendale_2956593551	QEMSHBRTEM
+2635729019	3166571079	3008170365	Aspetti del servizio di navetta aziendale_3008170365	QEMSHWGT
+2635729019	3166571079	3014003288	Costo mensile dello spostamento_3014003288	QEMCOSTAM
+2635729019	3166571079	3024816592	Tempo di viaggio con il trasporto pubblico_3024816592	QEMTRIPPT
+2635729019	3166571079	3148089854	Giudizio sul trasporto pubblico_3148089854	QEMCOLRTEM
+2635729019	3166571079	3167750722	Utilizzo navetta aziendale_3167750722	QEMIFNAV
+2635729019	3166571079	3203861059	Modo utilizzato per raggiungere la fermata del trasporto pubblico_3203861059	QEMHWBST
+2635729019	3354069645	2885945809	Nucleo familiare_2885945809	QEMFML
+2635729019	3354069645	2905868714	Indirizzo_2905868714	QEMTOTADDR
+2635729019	3354069645	3044870652	Fascia di età_3044870652	QEMAGERNEM
+2635729019	3354069645	3105819120	Sesso_3105819120	QEMGENDER
+2635729019	3354069645	3288992255	Accompagnamento persone_3288992255	QEMNOATNM

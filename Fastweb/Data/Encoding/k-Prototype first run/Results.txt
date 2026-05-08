@@ -1,0 +1,224 @@
+Automatically suggested k: 3
+
+EMPLOYEE -> CLUSTER ASSIGNMENT (HEAD)
+ employee  cluster
+ 21948553        1
+ 23811543        2
+ 24472838        0
+ 25478049        0
+ 25644407        1
+
+POPULATION PER CLUSTER
+ cluster  population  percentage
+       0         632   41.415465
+       1         721   47.247706
+       2         173   11.336828
+
+================================================================================
+CLUSTER POPULATION
+================================================================================
+ cluster  population  percentage
+       0         632   41.415465
+       1         721   47.247706
+       2         173   11.336828
+
+================================================================================
+NUMERICAL PROFILE (ORIGINAL SCALE)
+================================================================================
+        days_per_month_of_work_on_site                      QEMTRPDIST                              
+                                  mean median min max count       mean  median    min      max count
+cluster                                                                                             
+0                             8.463608    8.0   2  31   632  48.878987  33.905  10.68  1218.77   632
+1                             9.914008    8.0   3  31   721   8.593648   8.080   0.26    27.53   721
+2                             1.728324    2.0   0   4   173  33.394220  13.720   1.93  1339.91   173
+
+================================================================================
+NUMERICAL PROFILE (LOG1P INPUT SPACE)
+================================================================================
+        days_per_month_of_work_on_site__log1p                                     QEMTRPDIST__log1p                                    
+                                         mean    median       min       max count              mean    median       min       max count
+cluster                                                                                                                                
+0                                    2.180687  2.197225  1.098612  3.465736   632          3.604569  3.552630  2.457878  7.106418   632
+1                                    2.320853  2.197225  1.386294  3.465736   721          2.111118  2.206074  0.231112  3.350956   721
+2                                    0.861912  1.098612  0.000000  1.609438   173          2.789339  2.689207  1.075002  7.201104   173
+
+================================================================================
+TOP CATEGORIES PER CLUSTER
+================================================================================
+
+--- age_group ---
+ cluster    age_group  count  percentage
+       0        41_55    478   75.632911
+       0        56_60     59    9.335443
+       0        36_40     45    7.120253
+       1        41_55    518   71.844660
+       1        36_40     84   11.650485
+       1        56_60     56    7.766990
+       2        41_55    142   82.080925
+       2        36_40     15    8.670520
+       2 more_than_60      7    4.046243
+
+--- home_location_type ---
+ cluster home_location_type  count  percentage
+       0              urban    324   51.265823
+       0         peri_urban    275   43.512658
+       0          non_urban     33    5.221519
+       1              urban    638   88.488211
+       1         peri_urban     79   10.957004
+       1          non_urban      4    0.554785
+       2              urban    134   77.456647
+       2         peri_urban     33   19.075145
+       2          non_urban      6    3.468208
+
+--- office_location_type ---
+ cluster office_location_type  count  percentage
+       0                urban    620   98.101266
+       0           peri_urban     12    1.898734
+       1                urban    668   92.649098
+       1           peri_urban     53    7.350902
+       2                urban    165   95.375723
+       2           peri_urban      8    4.624277
+
+--- family_unit ---
+ cluster family_unit  count  percentage
+       0           4    243   38.449367
+       0           3    162   25.632911
+       0           2    125   19.778481
+       1           2    189   26.213592
+       1           1    167   23.162275
+       1           3    167   23.162275
+       2           3     68   39.306358
+       2           4     57   32.947977
+       2           2     30   17.341040
+
+--- distance_of_pt_stop_closest_to_the_home ---
+ cluster distance_of_pt_stop_closest_to_the_home  count  percentage
+       0                                     1_2    128   20.253165
+       0                                 500_1km    107   16.930380
+       0                                     2_5    100   15.822785
+       1                                 500_1km    162   22.468793
+       1                                 300_500    117   16.227462
+       1                           less_than_100    115   15.950069
+       2                                 500_1km     39   22.543353
+       2                                 100_200     25   14.450867
+       2                             i_dont_know     21   12.138728
+
+--- gender ---
+ cluster                    gender  count  percentage
+       0                      male    439   69.462025
+       0                    female    190   30.063291
+       0 preferisco non dichiarare      3    0.474684
+       1                      male    438   60.748960
+       1                    female    281   38.973648
+       1 preferisco non dichiarare      2    0.277393
+       2                    female     96   55.491329
+       2                      male     77   44.508671
+
+--- working_time_arrangement ---
+ cluster        working_time_arrangement  count  percentage
+       0                 fulltime_5_days    569   90.031646
+       0 part time orizzontale/verticale     42    6.645570
+       0                           shift     21    3.322785
+       1                 fulltime_5_days    605   83.911234
+       1 part time orizzontale/verticale     70    9.708738
+       1                           shift     46    6.380028
+       2                 fulltime_5_days    137   79.190751
+       2 part time orizzontale/verticale     28   16.184971
+       2                           shift      8    4.624277
+
+--- accompanying_people ---
+ cluster accompanying_people  count  percentage
+       0                 yes    360   56.962025
+       0                  no    272   43.037975
+       1                  no    451   62.552011
+       1                 yes    270   37.447989
+       2                 yes    129   74.566474
+       2                  no     44   25.433526
+
+--- during_journey_stops ---
+ cluster             during_journey_stops  count  percentage
+       0                               no    518   81.962025
+       0 yes_accompany_children_to_school     76   12.025316
+       0                 yes_for_purchase     22    3.481013
+       1                               no    538   74.618585
+       1 yes_accompany_children_to_school    124   17.198336
+       1                 yes_for_purchase     30    4.160888
+       2                               no    119   68.786127
+       2 yes_accompany_children_to_school     43   24.855491
+       2                 yes_for_purchase      9    5.202312
+
+--- available_means_transport__bycicle ---
+ cluster available_means_transport__bycicle  count  percentage
+       0                                 no    584   92.405063
+       0                                yes     48    7.594937
+       1                                 no    575   79.750347
+       1                                yes    146   20.249653
+       2                                 no    152   87.861272
+       2                                yes     21   12.138728
+
+--- available_means_transport__car ---
+ cluster available_means_transport__car  count  percentage
+       0                            yes    560   88.607595
+       0                             no     72   11.392405
+       1                            yes    578   80.166436
+       1                             no    143   19.833564
+       2                            yes    141   81.502890
+       2                             no     32   18.497110
+
+--- available_means_transport__electric_bike ---
+ cluster available_means_transport__electric_bike  count  percentage
+       0                                       no    625   98.892405
+       0                                      yes      7    1.107595
+       1                                       no    691   95.839112
+       1                                      yes     30    4.160888
+       2                                       no    170   98.265896
+       2                                      yes      3    1.734104
+
+--- available_means_transport__electric_motorcycle ---
+ cluster available_means_transport__electric_motorcycle  count  percentage
+       0                                             no    630   99.683544
+       0                                            yes      2    0.316456
+       1                                             no    717   99.445215
+       1                                            yes      4    0.554785
+       2                                             no    173  100.000000
+
+--- available_means_transport__electric_scooter ---
+ cluster available_means_transport__electric_scooter  count  percentage
+       0                                          no    618   97.784810
+       0                                         yes     14    2.215190
+       1                                          no    687   95.284327
+       1                                         yes     34    4.715673
+       2                                          no    169   97.687861
+       2                                         yes      4    2.312139
+
+--- available_means_transport__motorcycle ---
+ cluster available_means_transport__motorcycle  count  percentage
+       0                                    no    536   84.810127
+       0                                   yes     96   15.189873
+       1                                    no    605   83.911234
+       1                                   yes    116   16.088766
+       2                                    no    152   87.861272
+       2                                   yes     21   12.138728
+
+--- available_means_transport__nothing ---
+ cluster available_means_transport__nothing  count  percentage
+       0                                 no    593   93.829114
+       0                                yes     39    6.170886
+       1                                 no    635   88.072122
+       1                                yes     86   11.927878
+       2                                 no    149   86.127168
+       2                                yes     24   13.872832
+
+FINAL MODEL COST: 4233.357534688103
+FINAL MODEL N_ITER: 13
+
+CLUSTER CENTROIDS (RAW MODEL OUTPUT):
+[['0.1414182976618364' '0.8344174579304033' '41_55' 'urban' 'urban' '4'
+  '1_2' 'male' 'fulltime_5_days' 'yes' 'no' 'no' 'yes' 'no' 'no' 'no'
+  'no' 'no']
+ ['0.37942834674529546' '-0.7271052873409148' '41_55' 'urban' 'urban' '2'
+  '500_1km' 'male' 'fulltime_5_days' 'no' 'no' 'no' 'yes' 'no' 'no' 'no'
+  'no' 'no']
+ ['-2.097943364888078' '-0.01797064300125066' '41_55' 'urban' 'urban' '3'
+  '500_1km' 'female' 'fulltime_5_days' 'yes' 'no' 'no' 'yes' 'no' 'no'
+  'no' 'no' 'no']]

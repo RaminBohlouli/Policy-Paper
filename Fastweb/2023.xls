@@ -1,0 +1,69 @@
+"form","questiongroup","question","text","clone"
+"2736851074","2799896846","2763393298",Giorni al mese di lavoro in sede_Copy5_Copy4_Copy2,QEMMNDYS
+"2736851074","2799896846","2787182923",Inquadramento lavorativo_Copy3_Copy4_Copy2,QEMWORKTYP
+"2736851074","2799896846","2808285514",Rapporto con l?azienda_Copy3_Copy4_Copy2,QEMJOB
+"2736851074","2799896846","2972125666",Orario di lavoro_Copy3_Copy4_Copy2,QEMCONTTYP
+"2736851074","2799896846","3040348583",Sede_Copy3_Copy4_Copy2,QEMOFFICE
+"2736851074","2866612614","133175317",Saresti interessato a servizi di mobilità per i tuoi familiari?,
+"2736851074","2866612614","2564360353",Suggerimenti_Copy3_Copy4_Copy2,QEMSUGGSTN
+"2736851074","2866612614","3577157301",Potresti indicare il numero di figli e la scuola frequentata? ,
+"2736851074","2893220224","2682063009",Costo dell?abbonamento annuale al trasporto pubblico_Copy3_Copy4_Copy2,QEMCSTTRPT
+"2736851074","2893220224","2683177145",Giudizio sul servizio di navetta aziendale_Copy3_Copy4_Copy2,QEMSHBRTEM
+"2736851074","2893220224","2748123339",Fermata di discesa_Copy3_Copy4_Copy2,QEMCOLLSTP
+"2736851074","2893220224","2770209063",Distanza della fermata dei mezzi pubblici più vicina al domicilio_Copy3_Copy4_Copy2,QEMBSTDIS
+"2736851074","2893220224","2786068868",Tempo di viaggio_Copy3_Copy4_Copy2,QEMTRIP1EM
+"2736851074","2893220224","2847082787",Giudizio sul trasporto pubblico_Copy3_Copy4_Copy2,QEMCOLRTEM
+"2736851074","2893220224","2849048827",Aspetti del servizio di navetta aziendale_Copy3_Copy4_Copy2,QEMSHWGT
+"2736851074","2893220224","2870479263",Costo mensile dello spostamento_Copy3_Copy4_Copy2,QEMCOSTAM
+"2736851074","2893220224","2947484150",Tempo di viaggio con il trasporto pubblico_Copy3_Copy4_Copy2,QEMTRIPPT
+"2736851074","2893220224","2999978475",Aspetti dell?offerta di trasporto pubblico_Copy3_Copy4_Copy2,QEMCOLWHGT
+"2736851074","2893220224","3035761055",Utilizzo navetta aziendale_Copy3_Copy4_Copy2,QEMIFNAV
+"2736851074","2893220224","3098479150",Trasbordi effettuati_Copy3_Copy4_Copy2,QEMNMCHN
+"2736851074","2893220224","3120761356",Modo utilizzato per raggiungere la fermata del trasporto pubblico_Copy3_Copy4_Copy2,QEMHWBST
+"2736851074","2948663705","2786920599",Nucleo familiare_Copy3_Copy4_Copy2,QEMFML
+"2736851074","2948663705","2801797449",Indirizzo_Copy3_Copy4_Copy2,QEMTOTADDR
+"2736851074","2948663705","2838956257",Fascia di età_Copy3_Copy4_Copy2,QEMAGERNEM
+"2736851074","2948663705","2866350412",Accompagnamento persone_Copy3_Copy4_Copy2,QEMNOATNM
+"2736851074","2948663705","3241216567",Sesso_Copy3_Copy4_Copy2,QEMGENDER
+"2736851074","3032025532","2578581611",Sai che da quest'anno noi di Fastweb abbiamo la possibilità di acquistare voucher di sharing mobility a prezzo scontato attraverso il Portale?_Copy2,"2566403386"
+"2736851074","3032025532","2697933529",Potresti indicare il motivo per cui non utilizzi i servizi messi a disposizione? (solo se il dipendnete risponde nessuno dei precedenti),
+"2736851074","3032025532","2724858039",Sei a conoscenza dei diversi servizi offerti dal portale?_Copy4,"1632245056"
+"2736851074","3032025532","2822834452","Conosci il percorso GoFast GoGreen che vede impiegati noi di Fastweb nella progettazione di una mobilità per i dipendenti più organizzata, innovativa e sostenibile? _Copy2","3475389920"
+"2736851074","3032025532","2922383689",Contributo per acquisto bici_Copy3_Copy4_Copy2,QEMCL3
+"2736851074","3032025532","2936867186","Con quale frequenza accedi ai servizi all'interno del Portale? (1:mai, 2:poco, 3:abbastanza, 4:molto)_Copy2","837886740"
+"2736851074","3032025532","3035695534",Quale tipo di servizio utilizzi/consulti abitualmente all'interno del Portale? (è possibile indicare più di una risposta)_Copy2,"145698368"
+"2736851074","3032025532","3129477693",Hai mai utilizzato l'innovativo Portale della Mobilità (MobilityCompany/GoFast GoGreen)_Copy2,"2723487901"
+"2736851074","3032484205","2773747940",Quale abbonamento al trasporto possiedi? (è possibile indicare più di una opzione)_Copy_Copy5_Copy2,"371728226"
+"2736851074","3032484205","2791639379",Modi utilizzati nella stagione opposta_Copy3_Copy4_Copy2,QEMMDSQ2NM
+"2736851074","3032484205","2796816806",Modo di trasporto utilizzato_Copy3_Copy4_Copy2,QEMWCMOD
+"2736851074","3032484205","2864646484",Mezzi pubblici utilizzati_Copy3_Copy4_Copy2,QEMWCPUT
+"2736851074","3032484205","2956069276",Soste durante il tragitto_Copy4_Copy4_Copy2,QEMTRP1SNM
+"2736851074","3032484205","2976713080",Permesso ZTL_Copy3_Copy4_Copy2,QEMZTLPER
+"2736851074","3032484205","2988640609",Utilizzerai mezzi in sharing per recarti al lavoro?_Copy2,"4254143295"
+"2736851074","3032484205","3214215778",Quanto sei soddisfatto del mezzo che usi abitualmente per lo spostamento casa - lavoro ? _Copy9_Copy2,"3747356826"
+"2736851074","3032484205","3343780442",Motivo di scelta del mezzo_Copy3_Copy4_Copy2,QEMWHYMDNM
+"2736851074","3049195857","3193702853",Informativa sul trattamento dei dati personali_Copy3_Copy4_Copy2,QEMINFPRV
+"2736851074","3070298565","2500462651",Alimentazione dell?auto_Copy3_Copy4_Copy2,QEMCRAVLB
+"2736851074","3070298565","2677147833",Costo del parcheggio_Copy3_Copy4_Copy2,QEMMCHPRK
+"2736851074","3070298565","2725841141",Standard emissivo dell?auto_Copy3_Copy4_Copy2,QEMCREUR
+"2736851074","3070298565","2813462743",Mezzi di trasporto disponibili_Copy3_Copy4_Copy2,QEMMDAVLB
+"2736851074","3070298565","2829322532",Parcheggio presso la sede_Copy3_Copy4_Copy2,QEMWHRCR
+"2736851074","3070298565","2859665788",Problemi di sosta dell?auto_Copy3_Copy4_Copy2,QEMPRKPBEM
+"2736851074","3070298565","2908555584",Standard emissivo del motociclo_Copy3_Copy4_Copy2,QEMMTEUR
+"2736851074","3070298565","2961770985",Accesso al parcheggio aziendale_Copy3_Copy4_Copy2,QEMCPRKACC
+"2736851074","3070298565","3052276022",Spazi adeguati per la sosta della bici_Copy3_Copy4_Copy2,QEMBIKPBEM
+"2736851074","3096906261","2573928658",Ora uscita da lavoro_Copy3_Copy4_Copy2,QEMWKOU3EM
+"2736851074","3096906261","2799044929",Pausa pranzo_Copy4_Copy4_Copy2,QEMBRKDOEM
+"2736851074","3096906261","2830174493",Turno in corso_Copy3_Copy4_Copy2,QEMTURNS2
+"2736851074","3096906261","2934835652",Ora partenza da casa_Copy3_Copy4_Copy2,QEMSTARTIM
+"2736851074","3096906261","3008170432",Qual è il tuo orario di ingresso al lavoro?  _Copy9_Copy2,"2380207822"
+"2736851074","3096906261","3261860367",Spostamenti di lavoro_Copy_Copy2,QEMWRKTRP2
+"2736851074","3143174702","2783185189",Utilizzo bus aziendale_Copy3_Copy4_Copy2,QEMIFCOB
+"2736851074","3143174702","2840004955",Saresti disposto ad effettuare lo spostamento (interamente o in parte) con il monopattino per andare a laovoro (max 3 risposte)_Copy_Copy5_Copy5_Copy_Copy4_Copy2,"3761057453"
+"2736851074","3143174702","2850490711",Propensione verso il carpooling_Copy3_Copy4_Copy2,QEMIFCPPNM
+"2736851074","3143174702","2930248101",Saresti disposto ad effettuare lo spostamento (interamente o in parte) a piedi per andare a lavoro? (max 3 risposte)_Copy7_Copy2,"3634113020"
+"2736851074","3143174702","2964457957","Saresti disposto ad utilizzare servizi di sharing mobility (car sharing, bike sharing etc) per raggiungere la tua sede di lavoro?_Copy13_Copy2","1196765063"
+"2736851074","3143174702","2978351388",Propensione verso la bici_Copy3_Copy4_Copy2,QEMIFBIKNM
+"2736851074","3143174702","3004238285",Quale tipologia di sharing preferiresti utilizzare? (max 3 risposte)_Copy5_Copy_Copy_Copy4_Copy2,"2020219235"
+"2736851074","3143174702","3068136042",Propensione verso il trasporto pubblico_Copy3_Copy4_Copy2,QEMIFCOLNM
+"2736851074","3143174702","3259763320",Saresti disponibile a effettuare una parte del tuo spostamento a piedi insieme ad altri colleghi?_Copy2,"4184089633"

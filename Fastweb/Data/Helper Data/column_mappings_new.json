@@ -1,0 +1,310 @@
+{
+  "anonid": {
+    "new_name": "employee",
+	"question_type": "id" 
+  },
+  "company_short_name": {
+    "new_name": "company_name",
+	"question_type": "id" 
+  },
+  "lon_home": {
+    "new_name": "lon_home",
+	"question_type": "geopoint" 
+  },
+  "lat_home": {
+    "new_name": "lat_home",
+	"question_type": "geopoint" 
+  },
+  "office": {
+    "new_name": "office_id",
+	"question_type": "id" 
+  },
+  "lon_office": {
+    "new_name": "lon_office",
+	"question_type": "geopoint" 
+  },
+  "lat_office": {
+    "new_name": "lat_office",
+	"question_type": "geopoint" 
+  },
+  "obsscenario": {
+    "new_name": "questionnaire_id",
+	"question_type": "id" 
+  },
+  "company_id": {
+    "new_name": "company_id",
+	"question_type": "id" 
+  },
+  "371728226": {
+    "new_name": "have_subscription_for_transport",
+	"question_type": "multiple_choice" 
+  },
+  "QEMAGERNEM": {
+    "new_name": "age_group",
+	"question_type": "single_choice" 
+  },
+  "QEMWHYMDNM": {
+    "new_name": "choice_reason",
+	"question_type": "multiple_choice" 
+  },
+  "QEMGENDER": {
+    "new_name": "gender",
+	"question_type": "single_choice" 
+  },
+  "3747356826": {
+    "new_name": "satisfaction_current_mode",
+	"question_type": "single_rate" 
+  },
+  "2380207822": {
+    "new_name": "job_entry_time",
+	"question_type": "time" 
+  },
+  "QEMCOSTAM": {
+    "new_name": "monthly_cost_of_the_travel",
+	"question_type": "single_choice" 
+  },
+  "QEMMDAVLB": {
+    "new_name": "available_means_transport",
+	"question_type": "multiple_choice" 
+  },
+  "QEMTRIP1EM": {
+    "new_name": "travel_time_declared",
+	"question_type": "number" 
+  },
+  "QEMMAINMOD": {
+    "new_name": "main_mode",
+	"question_type": "single_choice" 
+  },
+  "QEMTRPDISF": {
+    "new_name": "distance_foot",
+	"question_type": "number" 
+  },
+  "QEMTRPTIMF": {
+    "new_name": "travel_time_foot_calculated",
+	"question_type": "number" 
+  },
+  "QEMPROVINC": {
+    "new_name": "province_home",
+	"question_type": "single_choice" 
+  },
+  "1196765063": {
+    "new_name": "willingness_to_use_shared_mobility_to_work",
+	"question_type": "multiple_choice" 
+  },
+  "QEMMNDYS": {
+    "new_name": "days_per_month_of_work_on_site",
+	"question_type": "number" 
+  },
+  "QEMSTARTIM": {
+    "new_name": "departure_time_from_home",
+	"question_type": "time" 
+  },
+  "QEMCSTTRPT": {
+    "new_name": "annual_cost_public_subscription_transport",
+	"question_type": "single_choice" 
+  },
+  "QEMCONTTYP": {
+    "new_name": "working_time_arrangement",
+	"question_type": "single_choice" 
+  },
+  "QEMCOLWHGT": {
+    "new_name": "aspects_of_the_public_transport_expected",
+	"question_type": "multiple_rate" 
+  },
+  "QEMMUNICIP": {
+    "new_name": "municipality",
+	"question_type": "single_choice" 
+  },
+  "QEMBSTDIS": {
+    "new_name": "distance_of_pt_stop_closest_to_the_home",
+	"question_type": "single_choice" 
+  },
+  "QEMCOLRTEM": {
+    "new_name": "aspects_of_the_public_transport_judgment",
+	"question_type": "multiple_rate" 
+  },
+  "QEMNMCHN": {
+    "new_name": "number_transfers",
+	"question_type": "single_choice" 
+  },
+  "QEMWKOU3EM": {
+    "new_name": "departure_time_from_work",
+	"question_type": "time" 
+  },
+  "QEMWORKTYP": {
+    "new_name": "job_role",
+	"question_type": "single_choice" 
+  },
+  "QEMJOB": {
+    "new_name": "contract_type",
+	"question_type": "single_choice" 
+  },
+  "QEMPRKPBEM": {
+    "new_name": "car_parking_problems",
+	"question_type": "single_choice" 
+  },
+  "QEMMCHPRK": {
+    "new_name": "cost_of_parking",
+	"question_type": "single_choice" 
+  },
+  "QEMCRAVLB": {
+    "new_name": "car_fuel",
+	"question_type": "single_choice" 
+  },
+  "QEMCREUR": {
+    "new_name": "car_emissive_standard",
+	"question_type": "single_choice" 
+  },
+  "QEMBFFR": {
+    "new_name": "flexibility_of_entry_time",
+	"question_type": "single_choice" 
+  },
+  "QEMTRIPPT": {
+    "new_name": "travel_time_declared_pt",
+	"question_type": "number" 
+  },
+  "QEMBIKPBEM": {
+    "new_name": "adequate_bike_spaces_stop",
+	"question_type": "single_choice" 
+  },
+  "QEMWHRCR": {
+    "new_name": "parking_at_the_headquarters",
+	"question_type": "multiple_choice" 
+  },
+  "1092957027": {
+    "new_name": "app_bike_walking_pt_gamification_rewards_willingness_to_use",
+	"question_type": "single_choice" 
+  },
+  "QEMTRP1SNM": {
+    "new_name": "during_journey_stops",
+	"question_type": "single_choice" 
+  },
+  "QEMIFCOLNM": {
+    "new_name": "propensity_towards_pt",
+	"question_type": "multiple_choice" 
+  },
+  "QEMIFCPPNM": {
+    "new_name": "propensity_towards_carpooling",
+	"question_type": "multiple_choice" 
+  },
+  "QEMIFBIKNM": {
+    "new_name": "propensity_towards_bike",
+	"question_type": "multiple_choice" 
+  },
+  "2020219235": {
+    "new_name": "which_type_of_sharing_would_you_prefer_to_use_max_3_responses",
+	"question_type": "multiple_choice" 
+  },
+  "QEMBRKDOEM": {
+    "new_name": "break_lunch",
+	"question_type": "single_choice" 
+  },
+  "QEMMDSQ2NM": {
+    "new_name": "modes_used_in_the_opposite_season",
+	"question_type": "multiple_choice" 
+  },
+  "QEMCOLLSTP": {
+    "new_name": "drop_off_stop",
+	"question_type": "stop" 
+  },
+  "QEMCPRKACC": {
+    "new_name": "access_company_parking",
+	"question_type": "single_choice" 
+  },
+  "QEMWRKTRP2": {
+    "new_name": "mission_used_mode",
+	"question_type": "single_choice" 
+  },
+  "QEMWCPUT": {
+    "new_name": "pt_mode",
+	"question_type": "multiple_choice" 
+  },
+  "QEMCLMCMD": {
+    "new_name": "modes_sustainable_used_rewarded",
+	"question_type": "multiple_choice" 
+  },
+  "3761057453": {
+    "new_name": "willingness_to_use_scooter_for_full_or_partial_commute",
+	"question_type": "multiple_choice" 
+  },
+  "QEMFML": {
+    "new_name": "family_unit",
+	"question_type": "single_choice" 
+  },
+  "QEMNOATNM": {
+    "new_name": "accompanying_people",
+	"question_type": "single_choice" 
+  },
+  "QEMIFNAV": {
+    "new_name": "use_of_company_shuttle",
+	"question_type": "single_choice" 
+  },
+  "4247589731": {
+    "new_name": "department",
+	"question_type": "single_choice" 
+  },
+  "145698368": {
+    "new_name": "which_type_of_service_you_use_inside_the_portal",
+	"question_type": "multiple_choice" 
+  },
+  "3475389920": {
+    "new_name": "do_you_know_GOFAST_GOGREEN_fastweb",
+	"question_type": "single_choice" 
+  },
+  "1632245056": {
+    "new_name": "are_you_aware_of_the_different_services_offered_by_the_portal",
+	"question_type": "single_choice" 
+  },
+  "837886740": {
+    "new_name": "with_what_frequency_access_the_services_inside_the_portal_1_never_2_little_3_enough_4_a_lot",
+	"question_type": "multiple_choice" 
+  },
+  "2723487901": {
+    "new_name": "did_you_use_portal_GOFAST_GOGREEN",
+	"question_type": "single_choice" 
+  },
+  "2891060939": {
+    "new_name": "private_public_together_transport_use_vehicle",
+	"question_type": "multiple_choice" 
+  },
+  "2697933529": {
+    "new_name": "indicate_why_you_don_t_use_the_services_made_available",
+	"question_type": "text" 
+  },
+  "1751663427": {
+    "new_name": "do_you_want_daily_communication_consultance_using_infomobility_portal_on_roads_services_strikes_traffic_transport_willing",
+	"question_type": "single_choice" 
+  },
+  "360793341": {
+    "new_name": "use_atm_parking_spots_with_pt_or_sharing",
+	"question_type": "single_choice" 
+  },
+  "3577157301": {
+    "new_name": "indicate_the_number_of_children",
+	"question_type": "text" 
+  },
+  "189202965": {
+    "new_name": "how_satisfied_with_office_environment",
+	"question_type": "single_choice" 
+  },
+  "2915576562": {
+    "new_name": "did_you_smartwork_last_year",
+	"question_type": "single_choice" 
+  },
+  "736573968": {
+    "new_name": "motivations_for_smartworking_in_the_future_children_family_assistance",
+	"question_type": "single_choice" 
+  },
+  "518466413": {
+    "new_name": "for_which_features_smartworking_is_usefull",
+	"question_type": "multiple_choice" 
+  },
+  "4267910889": {
+    "new_name": "are_ebooks_brochures_usefull_for_information_on_sustainable_mobility",
+	"question_type": "single_choice" 
+  },
+  "QEMHWMCDST": {
+    "new_name": "bus_company_distance_from_home_maximum_reach_stop",
+	"question_type": "number" 
+  }
+}

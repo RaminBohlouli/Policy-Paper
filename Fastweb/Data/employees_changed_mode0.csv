@@ -1,0 +1,231 @@
+employee,2023_office_location_type,2024_office_location_type,2023_home_location_type,2024_home_location_type,2023_mode,2024_mode,,,office urban changed?,home urban changed?,Mode Changed?,,,,employee,2023_office_location_type,2023_home_location_type,2023_mode,2024_mode,mode_shift
+24472838,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,24472838,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+25644407,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,25644407,urban,urban,car,public_transport,car ? public_transport
+29152854,urban,urban,peri_urban,peri_urban,public_transport,car,,,no,no,yes,,,,29152854,urban,peri_urban,public_transport,car,public_transport ? car
+34351478,urban,urban,urban,urban,public_transport,spostamento multimodale,,,no,no,yes,,,,34351478,urban,urban,public_transport,spostamento multimodale,public_transport ? spostamento multimodale
+37539775,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,37539775,urban,urban,public_transport,car,public_transport ? car
+38473690,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,38473690,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+41547176,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,41547176,urban,urban,motorcycle,car,motorcycle ? car
+63398107,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,63398107,urban,urban,motorcycle,car,motorcycle ? car
+63526462,urban,urban,urban,urban,car,walking,,,no,no,yes,,,,63526462,urban,urban,car,walking,car ? walking
+66913212,urban,urban,peri_urban,peri_urban,car,public_transport,,,no,no,yes,,,,66913212,urban,peri_urban,car,public_transport,car ? public_transport
+74270356,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,74270356,urban,urban,motorcycle,car,motorcycle ? car
+90724331,urban,urban,urban,urban,bike,motorcycle,,,no,no,yes,,,,90724331,urban,urban,bike,motorcycle,bike ? motorcycle
+93402576,urban,urban,urban,urban,carpooling_passenger,car,,,no,no,yes,,,,93402576,urban,urban,carpooling_passenger,car,carpooling_passenger ? car
+127287880,urban,urban,peri_urban,peri_urban,public_transport,car,,,no,no,yes,,,,127287880,urban,peri_urban,public_transport,car,public_transport ? car
+137599638,urban,urban,non_urban,non_urban,car,carpooling_passenger,,,no,no,yes,,,,137599638,urban,non_urban,car,carpooling_passenger,car ? carpooling_passenger
+153072006,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,153072006,urban,urban,car,public_transport,car ? public_transport
+185399991,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,185399991,urban,urban,public_transport,car,public_transport ? car
+192130673,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,192130673,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+230312432,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,230312432,urban,urban,car,public_transport,car ? public_transport
+234672526,urban,urban,urban,urban,public_transport,motorcycle,,,no,no,yes,,,,234672526,urban,urban,public_transport,motorcycle,public_transport ? motorcycle
+253305904,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,253305904,urban,urban,public_transport,car,public_transport ? car
+253594889,urban,urban,urban,urban,car,motorcycle,,,no,no,yes,,,,253594889,urban,urban,car,motorcycle,car ? motorcycle
+259823218,urban,urban,peri_urban,peri_urban,car,spostamento multimodale,,,no,no,yes,,,,259823218,urban,peri_urban,car,spostamento multimodale,car ? spostamento multimodale
+264982285,urban,urban,urban,urban,car,walking,,,no,no,yes,,,,264982285,urban,urban,car,walking,car ? walking
+271008607,urban,urban,urban,urban,public_transport,motorcycle,,,no,no,yes,,,,271008607,urban,urban,public_transport,motorcycle,public_transport ? motorcycle
+271565997,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,271565997,urban,urban,motorcycle,car,motorcycle ? car
+273619628,urban,urban,urban,urban,spostamento multimodale,car,,,no,no,yes,,,,273619628,urban,urban,spostamento multimodale,car,spostamento multimodale ? car
+275053170,urban,urban,urban,urban,carpooling_driver,car,,,no,no,yes,,,,275053170,urban,urban,carpooling_driver,car,carpooling_driver ? car
+291438033,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,291438033,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+294372228,urban,urban,urban,urban,spostamento multimodale,car,,,no,no,yes,,,,294372228,urban,urban,spostamento multimodale,car,spostamento multimodale ? car
+316414359,urban,urban,peri_urban,peri_urban,car,carpooling_driver,,,no,no,yes,,,,316414359,urban,peri_urban,car,carpooling_driver,car ? carpooling_driver
+318001980,urban,urban,urban,urban,carpooling_passenger,car,,,no,no,yes,,,,318001980,urban,urban,carpooling_passenger,car,carpooling_passenger ? car
+328266960,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,328266960,urban,urban,motorcycle,car,motorcycle ? car
+330932712,urban,urban,peri_urban,peri_urban,bike,car,,,no,no,yes,,,,330932712,urban,peri_urban,bike,car,bike ? car
+343759708,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,343759708,urban,urban,car,public_transport,car ? public_transport
+346932074,urban,urban,peri_urban,peri_urban,walking,car,,,no,no,yes,,,,346932074,urban,peri_urban,walking,car,walking ? car
+371531829,urban,urban,peri_urban,peri_urban,public_transport,car,,,no,no,yes,,,,371531829,urban,peri_urban,public_transport,car,public_transport ? car
+377016659,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,377016659,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+377959478,urban,urban,peri_urban,peri_urban,public_transport,car,,,no,no,yes,,,,377959478,urban,peri_urban,public_transport,car,public_transport ? car
+379630690,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,379630690,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+380045901,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,380045901,urban,urban,motorcycle,car,motorcycle ? car
+382330052,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,382330052,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+390844414,urban,urban,peri_urban,peri_urban,public_transport,car,,,no,no,yes,,,,390844414,urban,peri_urban,public_transport,car,public_transport ? car
+391937870,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,391937870,urban,urban,car,public_transport,car ? public_transport
+393981944,urban,urban,peri_urban,peri_urban,public_transport,car,,,no,no,yes,,,,393981944,urban,peri_urban,public_transport,car,public_transport ? car
+399898659,urban,urban,urban,urban,car,carpooling_driver,,,no,no,yes,,,,399898659,urban,urban,car,carpooling_driver,car ? carpooling_driver
+411448460,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,411448460,urban,urban,public_transport,car,public_transport ? car
+416402517,urban,urban,peri_urban,peri_urban,car,carpooling_driver,,,no,no,yes,,,,416402517,urban,peri_urban,car,carpooling_driver,car ? carpooling_driver
+427283136,urban,urban,urban,urban,car,carpooling_driver,,,no,no,yes,,,,427283136,urban,urban,car,carpooling_driver,car ? carpooling_driver
+434112993,urban,urban,peri_urban,peri_urban,spostamento multimodale,car,,,no,no,yes,,,,434112993,urban,peri_urban,spostamento multimodale,car,spostamento multimodale ? car
+453228900,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,453228900,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+458104966,peri_urban,peri_urban,urban,urban,carpooling_passenger,car,,,no,no,yes,,,,458104966,peri_urban,urban,carpooling_passenger,car,carpooling_passenger ? car
+489825815,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,489825815,urban,urban,public_transport,car,public_transport ? car
+491483322,urban,urban,urban,urban,public_transport,spostamento multimodale,,,no,no,yes,,,,491483322,urban,urban,public_transport,spostamento multimodale,public_transport ? spostamento multimodale
+498584450,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,498584450,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+526406566,urban,urban,urban,urban,spostamento multimodale,bike,,,no,no,yes,,,,526406566,urban,urban,spostamento multimodale,bike,spostamento multimodale ? bike
+531929476,urban,urban,urban,urban,bike,car,,,no,no,yes,,,,531929476,urban,urban,bike,car,bike ? car
+542731611,urban,urban,peri_urban,peri_urban,carpooling_driver,car,,,no,no,yes,,,,542731611,urban,peri_urban,carpooling_driver,car,carpooling_driver ? car
+544810960,urban,urban,urban,urban,bike,walking,,,no,no,yes,,,,544810960,urban,urban,bike,walking,bike ? walking
+550681080,urban,urban,urban,urban,bike,public_transport,,,no,no,yes,,,,550681080,urban,urban,bike,public_transport,bike ? public_transport
+557558542,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,557558542,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+565609899,peri_urban,peri_urban,urban,urban,car,motorcycle,,,no,no,yes,,,,565609899,peri_urban,urban,car,motorcycle,car ? motorcycle
+567113447,urban,urban,urban,urban,walking,car,,,no,no,yes,,,,567113447,urban,urban,walking,car,walking ? car
+576608327,urban,urban,peri_urban,peri_urban,public_transport,spostamento multimodale,,,no,no,yes,,,,576608327,urban,peri_urban,public_transport,spostamento multimodale,public_transport ? spostamento multimodale
+585647209,urban,urban,urban,urban,walking,bike,,,no,no,yes,,,,585647209,urban,urban,walking,bike,walking ? bike
+594293777,urban,urban,non_urban,non_urban,public_transport,car,,,no,no,yes,,,,594293777,urban,non_urban,public_transport,car,public_transport ? car
+612424366,urban,urban,urban,urban,walking,car,,,no,no,yes,,,,612424366,urban,urban,walking,car,walking ? car
+615496027,urban,urban,peri_urban,peri_urban,car,public_transport,,,no,no,yes,,,,615496027,urban,peri_urban,car,public_transport,car ? public_transport
+616814449,urban,urban,urban,urban,public_transport,spostamento multimodale,,,no,no,yes,,,,616814449,urban,urban,public_transport,spostamento multimodale,public_transport ? spostamento multimodale
+621203443,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,621203443,urban,urban,car,public_transport,car ? public_transport
+631084669,urban,urban,peri_urban,peri_urban,car,motorcycle,,,no,no,yes,,,,631084669,urban,peri_urban,car,motorcycle,car ? motorcycle
+638058918,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,638058918,urban,urban,motorcycle,car,motorcycle ? car
+641675553,urban,urban,peri_urban,peri_urban,motorcycle,car,,,no,no,yes,,,,641675553,urban,peri_urban,motorcycle,car,motorcycle ? car
+669001811,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,669001811,urban,urban,car,public_transport,car ? public_transport
+671069574,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,671069574,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+678350788,urban,urban,urban,urban,car,motorcycle,,,no,no,yes,,,,678350788,urban,urban,car,motorcycle,car ? motorcycle
+705991551,peri_urban,peri_urban,peri_urban,peri_urban,car,spostamento multimodale,,,no,no,yes,,,,705991551,peri_urban,peri_urban,car,spostamento multimodale,car ? spostamento multimodale
+711059155,urban,urban,urban,urban,car,walking,,,no,no,yes,,,,711059155,urban,urban,car,walking,car ? walking
+711354342,urban,urban,peri_urban,peri_urban,car,motorcycle,,,no,no,yes,,,,711354342,urban,peri_urban,car,motorcycle,car ? motorcycle
+714503803,urban,urban,peri_urban,peri_urban,carpooling_driver,car,,,no,no,yes,,,,714503803,urban,peri_urban,carpooling_driver,car,carpooling_driver ? car
+730007441,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,730007441,urban,urban,car,public_transport,car ? public_transport
+739469620,urban,urban,urban,urban,car,motorcycle,,,no,no,yes,,,,739469620,urban,urban,car,motorcycle,car ? motorcycle
+749251087,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,749251087,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+750199959,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,750199959,urban,urban,car,public_transport,car ? public_transport
+769217033,urban,urban,urban,urban,car,spostamento multimodale,,,no,no,yes,,,,769217033,urban,urban,car,spostamento multimodale,car ? spostamento multimodale
+772410804,urban,urban,urban,urban,public_transport,carpooling_passenger,,,no,no,yes,,,,772410804,urban,urban,public_transport,carpooling_passenger,public_transport ? carpooling_passenger
+781839484,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,781839484,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+783259863,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,783259863,urban,urban,motorcycle,car,motorcycle ? car
+798794081,urban,urban,urban,urban,spostamento multimodale,motorcycle,,,no,no,yes,,,,798794081,urban,urban,spostamento multimodale,motorcycle,spostamento multimodale ? motorcycle
+810999891,urban,urban,urban,urban,motorcycle,public_transport,,,no,no,yes,,,,810999891,urban,urban,motorcycle,public_transport,motorcycle ? public_transport
+813138903,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,813138903,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+818731888,urban,urban,urban,urban,public_transport,carpooling_passenger,,,no,no,yes,,,,818731888,urban,urban,public_transport,carpooling_passenger,public_transport ? carpooling_passenger
+822535776,urban,urban,urban,urban,car,motorcycle,,,no,no,yes,,,,822535776,urban,urban,car,motorcycle,car ? motorcycle
+825769103,urban,urban,peri_urban,peri_urban,car,carpooling_driver,,,no,no,yes,,,,825769103,urban,peri_urban,car,carpooling_driver,car ? carpooling_driver
+833793687,urban,urban,peri_urban,peri_urban,motorcycle,car,,,no,no,yes,,,,833793687,urban,peri_urban,motorcycle,car,motorcycle ? car
+846908704,urban,urban,non_urban,non_urban,car,motorcycle,,,no,no,yes,,,,846908704,urban,non_urban,car,motorcycle,car ? motorcycle
+859649677,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,859649677,urban,urban,car,public_transport,car ? public_transport
+862752388,urban,urban,urban,urban,public_transport,walking,,,no,no,yes,,,,862752388,urban,urban,public_transport,walking,public_transport ? walking
+880379934,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,880379934,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+882699999,urban,urban,urban,urban,spostamento multimodale,car,,,no,no,yes,,,,882699999,urban,urban,spostamento multimodale,car,spostamento multimodale ? car
+891987425,urban,urban,urban,urban,bike,walking,,,no,no,yes,,,,891987425,urban,urban,bike,walking,bike ? walking
+914805293,urban,urban,peri_urban,peri_urban,public_transport,spostamento multimodale,,,no,no,yes,,,,914805293,urban,peri_urban,public_transport,spostamento multimodale,public_transport ? spostamento multimodale
+929244838,urban,urban,urban,urban,car,carpooling_driver,,,no,no,yes,,,,929244838,urban,urban,car,carpooling_driver,car ? carpooling_driver
+965912559,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,965912559,urban,urban,car,public_transport,car ? public_transport
+1007429245,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1007429245,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1010073813,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1010073813,urban,urban,public_transport,car,public_transport ? car
+1015726503,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1015726503,urban,urban,public_transport,car,public_transport ? car
+1030246357,urban,urban,urban,urban,car,walking,,,no,no,yes,,,,1030246357,urban,urban,car,walking,car ? walking
+1045109662,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1045109662,urban,urban,public_transport,car,public_transport ? car
+1063863710,urban,urban,urban,urban,carpooling_driver,car,,,no,no,yes,,,,1063863710,urban,urban,carpooling_driver,car,carpooling_driver ? car
+1073554909,urban,urban,urban,urban,walking,car,,,no,no,yes,,,,1073554909,urban,urban,walking,car,walking ? car
+1080725409,urban,urban,non_urban,non_urban,public_transport,car,,,no,no,yes,,,,1080725409,urban,non_urban,public_transport,car,public_transport ? car
+1085673135,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1085673135,urban,urban,public_transport,car,public_transport ? car
+1108492538,urban,urban,urban,urban,bike,walking,,,no,no,yes,,,,1108492538,urban,urban,bike,walking,bike ? walking
+1109655450,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,1109655450,urban,urban,car,public_transport,car ? public_transport
+1122559368,urban,urban,urban,urban,public_transport,walking,,,no,no,yes,,,,1122559368,urban,urban,public_transport,walking,public_transport ? walking
+1126036078,urban,urban,peri_urban,peri_urban,car,carpooling_passenger,,,no,no,yes,,,,1126036078,urban,peri_urban,car,carpooling_passenger,car ? carpooling_passenger
+1141568321,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,1141568321,urban,urban,car,public_transport,car ? public_transport
+1151262352,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1151262352,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1161019188,urban,urban,urban,urban,car,bike,,,no,no,yes,,,,1161019188,urban,urban,car,bike,car ? bike
+1173791782,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,1173791782,urban,urban,car,public_transport,car ? public_transport
+1174202749,urban,urban,urban,urban,walking,car,,,no,no,yes,,,,1174202749,urban,urban,walking,car,walking ? car
+1180266545,urban,urban,urban,urban,carpooling_driver,car,,,no,no,yes,,,,1180266545,urban,urban,carpooling_driver,car,carpooling_driver ? car
+1181342552,urban,urban,non_urban,non_urban,motorcycle,car,,,no,no,yes,,,,1181342552,urban,non_urban,motorcycle,car,motorcycle ? car
+1181492559,peri_urban,peri_urban,urban,urban,car,motorcycle,,,no,no,yes,,,,1181492559,peri_urban,urban,car,motorcycle,car ? motorcycle
+1196329104,urban,urban,peri_urban,peri_urban,public_transport,spostamento multimodale,,,no,no,yes,,,,1196329104,urban,peri_urban,public_transport,spostamento multimodale,public_transport ? spostamento multimodale
+1206025205,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,1206025205,urban,urban,car,public_transport,car ? public_transport
+1212138987,urban,urban,urban,urban,public_transport,motorcycle,,,no,no,yes,,,,1212138987,urban,urban,public_transport,motorcycle,public_transport ? motorcycle
+1216788665,peri_urban,peri_urban,urban,urban,carpooling_driver,car,,,no,no,yes,,,,1216788665,peri_urban,urban,carpooling_driver,car,carpooling_driver ? car
+1222284036,urban,urban,urban,urban,carpooling_driver,car,,,no,no,yes,,,,1222284036,urban,urban,carpooling_driver,car,carpooling_driver ? car
+1248382011,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1248382011,urban,urban,public_transport,car,public_transport ? car
+1252709817,urban,urban,peri_urban,peri_urban,motorcycle,car,,,no,no,yes,,,,1252709817,urban,peri_urban,motorcycle,car,motorcycle ? car
+1258972046,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1258972046,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1297526071,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1297526071,urban,urban,public_transport,car,public_transport ? car
+1298358740,urban,urban,urban,urban,bike,walking,,,no,no,yes,,,,1298358740,urban,urban,bike,walking,bike ? walking
+1311416764,urban,urban,urban,urban,car,spostamento multimodale,,,no,no,yes,,,,1311416764,urban,urban,car,spostamento multimodale,car ? spostamento multimodale
+1312465436,urban,urban,urban,urban,car,bike,,,no,no,yes,,,,1312465436,urban,urban,car,bike,car ? bike
+1323780794,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1323780794,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1340670984,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1340670984,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1344560360,urban,urban,urban,urban,car,walking,,,no,no,yes,,,,1344560360,urban,urban,car,walking,car ? walking
+1347350319,urban,urban,peri_urban,peri_urban,car,spostamento multimodale,,,no,no,yes,,,,1347350319,urban,peri_urban,car,spostamento multimodale,car ? spostamento multimodale
+1349302478,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,1349302478,urban,urban,car,public_transport,car ? public_transport
+1357537833,urban,urban,urban,urban,public_transport,spostamento multimodale,,,no,no,yes,,,,1357537833,urban,urban,public_transport,spostamento multimodale,public_transport ? spostamento multimodale
+1372843602,urban,urban,urban,urban,carpooling_driver,car,,,no,no,yes,,,,1372843602,urban,urban,carpooling_driver,car,carpooling_driver ? car
+1407542528,urban,urban,urban,urban,car,walking,,,no,no,yes,,,,1407542528,urban,urban,car,walking,car ? walking
+1412975704,urban,urban,peri_urban,peri_urban,public_transport,car,,,no,no,yes,,,,1412975704,urban,peri_urban,public_transport,car,public_transport ? car
+1426235166,urban,urban,peri_urban,peri_urban,spostamento multimodale,car,,,no,no,yes,,,,1426235166,urban,peri_urban,spostamento multimodale,car,spostamento multimodale ? car
+1435638521,urban,urban,urban,urban,bike,motorcycle,,,no,no,yes,,,,1435638521,urban,urban,bike,motorcycle,bike ? motorcycle
+1435664697,urban,urban,urban,urban,walking,bike,,,no,no,yes,,,,1435664697,urban,urban,walking,bike,walking ? bike
+1437250147,urban,urban,urban,urban,bike,car,,,no,no,yes,,,,1437250147,urban,urban,bike,car,bike ? car
+1438755199,urban,urban,urban,urban,car,carpooling_passenger,,,no,no,yes,,,,1438755199,urban,urban,car,carpooling_passenger,car ? carpooling_passenger
+1438845012,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1438845012,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1486624933,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1486624933,urban,urban,public_transport,car,public_transport ? car
+1490219925,urban,urban,urban,urban,public_transport,walking,,,no,no,yes,,,,1490219925,urban,urban,public_transport,walking,public_transport ? walking
+1495737879,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1495737879,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1496579521,urban,urban,urban,urban,public_transport,spostamento multimodale,,,no,no,yes,,,,1496579521,urban,urban,public_transport,spostamento multimodale,public_transport ? spostamento multimodale
+1511406772,urban,urban,peri_urban,peri_urban,spostamento multimodale,motorcycle,,,no,no,yes,,,,1511406772,urban,peri_urban,spostamento multimodale,motorcycle,spostamento multimodale ? motorcycle
+1523195758,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1523195758,urban,urban,public_transport,car,public_transport ? car
+1528357612,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1528357612,urban,urban,public_transport,car,public_transport ? car
+1529646791,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1529646791,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1538118812,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1538118812,urban,urban,public_transport,car,public_transport ? car
+1558978607,urban,urban,urban,urban,public_transport,spostamento multimodale,,,no,no,yes,,,,1558978607,urban,urban,public_transport,spostamento multimodale,public_transport ? spostamento multimodale
+1560876560,urban,urban,urban,urban,carpooling_driver,car,,,no,no,yes,,,,1560876560,urban,urban,carpooling_driver,car,carpooling_driver ? car
+1563135375,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1563135375,urban,urban,public_transport,car,public_transport ? car
+1566525121,urban,urban,urban,urban,bike,car,,,no,no,yes,,,,1566525121,urban,urban,bike,car,bike ? car
+1571926618,urban,urban,peri_urban,peri_urban,motorcycle,car,,,no,no,yes,,,,1571926618,urban,peri_urban,motorcycle,car,motorcycle ? car
+1585358366,urban,urban,urban,urban,motorcycle,bike,,,no,no,yes,,,,1585358366,urban,urban,motorcycle,bike,motorcycle ? bike
+1607210857,urban,urban,urban,urban,walking,public_transport,,,no,no,yes,,,,1607210857,urban,urban,walking,public_transport,walking ? public_transport
+1625389928,urban,urban,urban,urban,public_transport,walking,,,no,no,yes,,,,1625389928,urban,urban,public_transport,walking,public_transport ? walking
+1627176712,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1627176712,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1629055011,urban,urban,urban,urban,walking,bike,,,no,no,yes,,,,1629055011,urban,urban,walking,bike,walking ? bike
+1629266868,urban,urban,urban,urban,spostamento multimodale,car,,,no,no,yes,,,,1629266868,urban,urban,spostamento multimodale,car,spostamento multimodale ? car
+1634374727,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1634374727,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1645406793,urban,urban,urban,urban,walking,public_transport,,,no,no,yes,,,,1645406793,urban,urban,walking,public_transport,walking ? public_transport
+1653867121,urban,urban,peri_urban,peri_urban,public_transport,car,,,no,no,yes,,,,1653867121,urban,peri_urban,public_transport,car,public_transport ? car
+1672097169,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1672097169,urban,urban,public_transport,car,public_transport ? car
+1674896931,urban,urban,urban,urban,car,spostamento multimodale,,,no,no,yes,,,,1674896931,urban,urban,car,spostamento multimodale,car ? spostamento multimodale
+1675920473,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,1675920473,urban,urban,car,public_transport,car ? public_transport
+1683281880,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1683281880,urban,urban,public_transport,car,public_transport ? car
+1688928691,urban,urban,urban,urban,spostamento multimodale,motorcycle,,,no,no,yes,,,,1688928691,urban,urban,spostamento multimodale,motorcycle,spostamento multimodale ? motorcycle
+1712165415,urban,urban,urban,urban,car,spostamento multimodale,,,no,no,yes,,,,1712165415,urban,urban,car,spostamento multimodale,car ? spostamento multimodale
+1720299254,urban,urban,peri_urban,peri_urban,spostamento multimodale,carpooling_driver,,,no,no,yes,,,,1720299254,urban,peri_urban,spostamento multimodale,carpooling_driver,spostamento multimodale ? carpooling_driver
+1720803851,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1720803851,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1741380544,urban,urban,urban,urban,bike,car,,,no,no,yes,,,,1741380544,urban,urban,bike,car,bike ? car
+1767356437,urban,urban,non_urban,non_urban,motorcycle,spostamento multimodale,,,no,no,yes,,,,1767356437,urban,non_urban,motorcycle,spostamento multimodale,motorcycle ? spostamento multimodale
+1771712121,urban,urban,peri_urban,peri_urban,car,spostamento multimodale,,,no,no,yes,,,,1771712121,urban,peri_urban,car,spostamento multimodale,car ? spostamento multimodale
+1782522422,urban,urban,urban,urban,car,bike,,,no,no,yes,,,,1782522422,urban,urban,car,bike,car ? bike
+1786556292,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1786556292,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1805894795,urban,urban,peri_urban,peri_urban,carpooling_driver,car,,,no,no,yes,,,,1805894795,urban,peri_urban,carpooling_driver,car,carpooling_driver ? car
+1810062598,urban,urban,urban,urban,spostamento multimodale,car,,,no,no,yes,,,,1810062598,urban,urban,spostamento multimodale,car,spostamento multimodale ? car
+1812942300,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,1812942300,urban,urban,car,public_transport,car ? public_transport
+1813202208,urban,urban,peri_urban,peri_urban,car,carpooling_driver,,,no,no,yes,,,,1813202208,urban,peri_urban,car,carpooling_driver,car ? carpooling_driver
+1815542434,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1815542434,urban,urban,public_transport,car,public_transport ? car
+1818213844,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1818213844,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1832871613,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,1832871613,urban,urban,motorcycle,car,motorcycle ? car
+1833852870,peri_urban,peri_urban,urban,urban,car,public_transport,,,no,no,yes,,,,1833852870,peri_urban,urban,car,public_transport,car ? public_transport
+1839566898,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1839566898,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+1846326344,urban,urban,urban,urban,car,public_transport,,,no,no,yes,,,,1846326344,urban,urban,car,public_transport,car ? public_transport
+1855594743,urban,urban,urban,urban,bike,public_transport,,,no,no,yes,,,,1855594743,urban,urban,bike,public_transport,bike ? public_transport
+1867867115,urban,urban,urban,urban,car,motorcycle,,,no,no,yes,,,,1867867115,urban,urban,car,motorcycle,car ? motorcycle
+1885538718,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1885538718,urban,urban,public_transport,car,public_transport ? car
+1896458530,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1896458530,urban,urban,public_transport,car,public_transport ? car
+1898566064,urban,urban,urban,urban,carpooling_driver,car,,,no,no,yes,,,,1898566064,urban,urban,carpooling_driver,car,carpooling_driver ? car
+1902146082,peri_urban,peri_urban,urban,urban,walking,public_transport,,,no,no,yes,,,,1902146082,peri_urban,urban,walking,public_transport,walking ? public_transport
+1919836115,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,1919836115,urban,urban,public_transport,car,public_transport ? car
+1924093340,urban,urban,peri_urban,peri_urban,public_transport,car,,,no,no,yes,,,,1924093340,urban,peri_urban,public_transport,car,public_transport ? car
+1964775354,urban,urban,urban,urban,car,spostamento multimodale,,,no,no,yes,,,,1964775354,urban,urban,car,spostamento multimodale,car ? spostamento multimodale
+1964900881,urban,urban,urban,urban,motorcycle,car,,,no,no,yes,,,,1964900881,urban,urban,motorcycle,car,motorcycle ? car
+1971405741,urban,urban,urban,urban,carpooling_driver,car,,,no,no,yes,,,,1971405741,urban,urban,carpooling_driver,car,carpooling_driver ? car
+1982127567,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,1982127567,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+2015077649,urban,urban,urban,urban,car,walking,,,no,no,yes,,,,2015077649,urban,urban,car,walking,car ? walking
+2017509148,urban,urban,urban,urban,spostamento multimodale,car,,,no,no,yes,,,,2017509148,urban,urban,spostamento multimodale,car,spostamento multimodale ? car
+2019046699,urban,urban,urban,urban,car,walking,,,no,no,yes,,,,2019046699,urban,urban,car,walking,car ? walking
+2026740117,urban,urban,urban,urban,car,bike,,,no,no,yes,,,,2026740117,urban,urban,car,bike,car ? bike
+2035576302,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,2035576302,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+2038832291,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,2038832291,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+2047866315,urban,urban,urban,urban,walking,public_transport,,,no,no,yes,,,,2047866315,urban,urban,walking,public_transport,walking ? public_transport
+2052378134,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,2052378134,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+2074657170,urban,urban,urban,urban,public_transport,car,,,no,no,yes,,,,2074657170,urban,urban,public_transport,car,public_transport ? car
+2075114556,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,2075114556,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+2091763987,urban,urban,urban,urban,public_transport,walking,,,no,no,yes,,,,2091763987,urban,urban,public_transport,walking,public_transport ? walking
+2099656113,urban,urban,urban,urban,bike,public_transport,,,no,no,yes,,,,2099656113,urban,urban,bike,public_transport,bike ? public_transport
+2108920911,urban,urban,non_urban,non_urban,spostamento multimodale,car,,,no,no,yes,,,,2108920911,urban,non_urban,spostamento multimodale,car,spostamento multimodale ? car
+2113503633,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,2113503633,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+2121019082,urban,urban,urban,urban,bike,car,,,no,no,yes,,,,2121019082,urban,urban,bike,car,bike ? car
+2126600279,urban,urban,urban,urban,spostamento multimodale,public_transport,,,no,no,yes,,,,2126600279,urban,urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
+2127430179,urban,urban,urban,urban,walking,car,,,no,no,yes,,,,2127430179,urban,urban,walking,car,walking ? car
+2129093085,urban,urban,non_urban,non_urban,car,spostamento multimodale,,,no,no,yes,,,,2129093085,urban,non_urban,car,spostamento multimodale,car ? spostamento multimodale
+2137498249,urban,urban,peri_urban,peri_urban,motorcycle,car,,,no,no,yes,,,,2137498249,urban,peri_urban,motorcycle,car,motorcycle ? car
+2140955284,urban,urban,peri_urban,peri_urban,spostamento multimodale,public_transport,,,no,no,yes,,,,2140955284,urban,peri_urban,spostamento multimodale,public_transport,spostamento multimodale ? public_transport
